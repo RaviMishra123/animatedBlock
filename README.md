@@ -1,1 +1,4 @@
 # animatedBlock
+HTML
+CSS
+JavaScript
